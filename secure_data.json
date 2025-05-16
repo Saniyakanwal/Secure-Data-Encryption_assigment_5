@@ -1,0 +1,14 @@
+{
+    "users": {
+        "": {
+            "password": "osD/vFZKuhB0Oai9l+I6xsLQ8kv3DigSC/tjt3j76x8=",
+            "fernet_key": "9SP_J8dri6N_aWjU86RZxCgIzgrJvWYt8vLCPBiJRd0=",
+            "entries": [
+                {
+                    "encrypted_text": "gAAAAABoJ2PXNAQDMnspO9tNK8JNjuzEVa8w8uJvevNFdtYRWoqPnrsM6Oy7Jk-mq3KD7SGpElMGOG9bhwcyamoanOX0o4F0BA==",
+                    "timestamp": "2025-05-16T21:12:07.047722"
+                }
+            ]
+        }
+    }
+}
